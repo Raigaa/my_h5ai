@@ -41,7 +41,7 @@ my_h5ai/
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/my_h5ai.git
+   git clone https://github.com/Raigaa/my_h5ai.git
    ```
 
 2. Placez le projet sur un serveur web compatible PHP.
